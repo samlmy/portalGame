@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cde12ad1d97abf14cac87890f1162d11
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ABeeZee
+  fontNames:
+  - ABeeZee
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 330618aa31196f94c99f6d7cf1f22d5c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
